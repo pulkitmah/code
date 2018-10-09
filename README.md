@@ -1,2 +1,2 @@
 # code
-Import day to day codes
+Day to day codes
